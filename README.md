@@ -6,7 +6,7 @@
 
 ### 🌱 I’m currently learning  Javascript and GoLang.
 
-### 👯 I’m looking to collaborate on Backend projetcs requiring a backend dev.
+### 👯 I’m looking to collaborate on Backend projects.
 
 ### 😄 Pronouns: He
 
