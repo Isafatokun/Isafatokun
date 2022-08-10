@@ -4,9 +4,9 @@
 
 ### 🔭 I’m currently working on the MTB Ontology (a semantic data model for data exchange in Smart Multitenant Buildings). In addition, as a side project, I am working on Notflix, a peer to peer version of netflix.
 
-### 🌱 I’m currently learning  Javascript and GoLang
+### 🌱 I’m currently learning  Javascript and GoLang.
 
-### 👯 I’m looking to collaborate on
+### 👯 I’m looking to collaborate on Backend projetcs requiring a backend dev.
 
 ### 😄 Pronouns: He
 
