@@ -2,7 +2,7 @@
 
 ### I am Isaac Fatokun. I write Python. In addition, I am familar with Semantic Web Technologies, Cyber Physical Social Systems, and Management Information Systems. 
 
-### 🔭 I’m currently working on the MTB Ontology (a data semantic model for data exchange in Smart Multitenant Buildings). Also, as a side project, I am building Notflix, a peer to peer version of netflix.
+### 🔭 I’m currently working on the MTB Ontology (a semantic data model for data exchange in Smart Multitenant Buildings). Also, as a side project, I am building Notflix, a peer to peer version of netflix.
 
 ### 🌱 I’m currently learning  Javascript and GoLang
 
