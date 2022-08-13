@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Isaac Fatokun. I write Python. I am also familar with Amazon Web Services, Semantic Web Technologies, Cyber Physical Social Systems, and Management Information Systems. 
+### I am Isaac Fatokun. I write Python. I am also familar with Semantic Web Technologies, and Cyber Physical Social Systems. 
 
 ### 🔭 I’m currently working on the MTB Ontology (a semantic data model for data exchange in Smart Multitenant Buildings). In addition, as a side project, I am working on Notflix, a peer to peer version of netflix.
 
