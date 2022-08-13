@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Isaac Fatokun. I write Python. I am also familar with Semantic Web Technologies, and Cyber Physical Social Systems. 
+### I am Isaac Fatokun. I write Python (Django, Flask). I am also familar with semantic web technologies such as the Web Ontology Language (OWL). 
 
 ### 🔭 I’m currently working on the MTB Ontology (a semantic data model for data exchange in Smart Multitenant Buildings). In addition, as a side project, I am working on Notflix, a peer to peer version of netflix.
 
@@ -10,7 +10,7 @@
 
 ### 😄 Pronouns: He
 
-### ⚡ Fun fact: I know more than i like to admit, Shy maybe? 
+### ⚡ Fun fact: I know more than i like to admit.
 
 <!--
 **Isafatokun/Isafatokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
