@@ -10,7 +10,7 @@
 
 ### 😄 Pronouns: He
 
-### ⚡ Fun fact: I know more than i like to admit.
+### ⚡ Fun fact: I probably know more than i like to admit.
 
 <!--
 **Isafatokun/Isafatokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
