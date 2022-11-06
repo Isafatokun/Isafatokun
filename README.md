@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on loads of APIs and Ontology Engineering Toolkits!
 
-### 🌱 I’m currently learning Javascript and Vue JS.
+### 🌱 I’m currently learning Vue JS.
 
 ### 👯 I’m looking to collaborate on Backend projects.
 
