@@ -8,8 +8,6 @@
 
 ### 👯 I’m looking to collaborate on Backend projects.
 
-### 😄 Pronouns: He
-
 ### ⚡ Fun fact: I probably know more than i like to admit.
 
 <!--
