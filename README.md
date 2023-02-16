@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Isaac Fatokun. I write Python and Django. I am also familar with C#, .net, Angular, Java, Spring Boot, and semantic web technologies such as the Web Ontology Language (OWL). 
+### I am Isaac Fatokun. I write Python and Django. I am also familar with C#, .Net, Angular, Java with Spring Boot and semantic web technologies such as the Web Ontology Language (OWL). 
 
 ### 🔭 I’m currently working on web apps using C# and Angular!
 
