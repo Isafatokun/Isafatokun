@@ -8,7 +8,7 @@
 
 ### 👯 I’m looking to collaborate on Backend projects.
 
-### ⚡ Fun fact: I like to write sometimes, Please visit my [Medium Page]([https://www.example.com](https://isaac-fatokun.medium.com/)) to read some of my articles.
+### ⚡ Fun fact: I like to write sometimes, Please visit my [Medium Page](https://isaac-fatokun.medium.com/) to read some of my articles.
 
 
 <!--
