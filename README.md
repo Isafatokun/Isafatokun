@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Isaac Fatokun, Software Engineer with around 3 years experience building commercial software and developer tools.
+### I'm Isaac Fatokun, Software Engineer with around 3 years experience building commercial software and as well as developer tools.
 
 ### 🔭 I’m currently working on web apps using C#, .NET, Python, and Angular!
 
