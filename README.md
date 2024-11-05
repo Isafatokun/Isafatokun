@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-### I am Isaac Fatokun. I write Python and Django. I am also familar with C#, .Net, Angular, Java with Spring Boot and semantic web technologies such as the Web Ontology Language (OWL). 
+### I'm Isaac Fatokun, Software Engineer with around 3 years experience building commercial software and developer tools.
 
-### 🔭 I’m currently working on web apps using C# and Angular!
+### 🔭 I’m currently working on web apps using C#, .NET, Python, and Angular!
 
-<!-- ### 🌱 I’m currently learning Vue JS. -->
-
-### 👯 I’m looking to collaborate on Backend projects.
+### 📫 How to reach me: Shoot me a message Isaac.fatokun@yahoo.com
 
 ### ⚡ Fun fact: I like to write sometimes, Visit my [Medium Page](https://isaac-fatokun.medium.com/) to read some of my articles.
-
 
 <!--
 **Isafatokun/Isafatokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
