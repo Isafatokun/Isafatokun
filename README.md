@@ -2,7 +2,7 @@
 
 ### I'm Isaac Fatokun, Software Engineer with 3 years experience building commercial software as well as developer tools.
 
-### 🔭 I’m currently working on web apps using C#, .NET, Python, and Angular!
+### 🔭 I’m currently working on web apps using C#, Go, and Angular!
 
 ### 📫 How to reach me: Shoot me a message Isaac.fatokun@yahoo.com
 
